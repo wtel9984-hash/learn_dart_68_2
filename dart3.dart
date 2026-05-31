@@ -5,7 +5,7 @@ void main() {
   String _name = "Bob";
   String nAme = "Charlie";
   print(name);
-  prinrt(_name);
+  print(_name);
   print(nAme);
 
   name = "David";
